@@ -32,11 +32,6 @@ This document summarizes the key findings and conclusions from the restaurant da
   - Implementing sentiment analysis on customer reviews.
   - Deploying the model using a web application for real-time predictions.
 
-## 🚀 Next Steps
-- Deploy the trained model using **Flask, FastAPI, or Streamlit**.
-- Collect more data, including customer reviews, for sentiment analysis.
-- Optimize features further for better prediction accuracy.
-
 ---
 🔗 **Check out the full project on GitHub!**
 
